@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	background-color:black;
+	
+	
+}
+.animal-photos{
+	
+	width:90%;
+	background-color:gray;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	height:100vh;
+	
+}
+.photo-heading{
+	color:white;
+	
+}
+.img-section{
+	display:grid;
+	grid-template-columns: 0.33fr 0.33fr 0.33fr;
+	padding:10px;
+	
+		
+}
